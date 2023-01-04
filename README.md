@@ -33,7 +33,7 @@ na barra superior clica em File/ settings ou (Ctrl+Alt+s)
 
 depois plugins, marketplace e pesquise por Gherkin 
 
-- feito isso tem que configurar os packs do pycharm 
+ feito isso tem que configurar os packs do pycharm 
  
  em settings procure por Project
  
@@ -48,7 +48,7 @@ com isso ja da pra usar
 -- EXECUÇÃO --
 
 pra executar o cenario criado na pasta feature 
-tem que ir no terminal e digitar: behave .\features\(nome da sua feature).feature
+tem que ir no terminal e digitar: behave .\features\\(nome da sua feature).feature
 assim o behave vai executar a sua feature 
 
 -- Organizando as pastas --
